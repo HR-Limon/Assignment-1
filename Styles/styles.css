@@ -239,3 +239,31 @@ header nav{
     font-style: medium; 
     color:#001931; 
 }
+.ready-container{
+    width:85%;
+    max-width: 1360px;
+    /* border: 1px solid black; */
+    margin: 0 auto 120px auto;
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+    text-align: center;
+}
+.ready-container h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 100%;
+    font-style: bold; 
+    color:#001931; 
+    margin-bottom: 16px;
+}
+.ready-container p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    font-style: normal;
+    color:#627382;
+    margin-bottom: 24px;
+}
+.ready-container .fixing{
+    margin-top: 16px;
+}
