@@ -138,6 +138,7 @@ header nav{
   display: flex;
   justify-content: center;
   gap: 16px;
+  padding-top:20px;
 }
 .btn4 { 
     background-color: transparent; 
