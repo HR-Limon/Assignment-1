@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+.font-open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+header{
+    background-color: #FFFFFF;
+    border: 1px solid red;
+
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 120px;
+    align-items: center;
+}
+.list ul{
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+    gap: 32px;
+    
+
+}
+.list ul a{
+    text-decoration: none;
+    color:#000000;
+    font-weight: 500;
+    font-size:16px;
+    line-height: 152%;
+
+
+}
+.btn{
+    background-color: #469165;
+    font-size: 16px;
+    font-weight: 600;
+    color:#FFFFFF;
+    border:none;
+    border-radius: 5px;;
+    padding: 12.5px 16px;
+}
